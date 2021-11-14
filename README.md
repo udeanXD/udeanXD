@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.ibb.co/tbSR6GF/One-Piece-Icons-Perona.jpg" width="100%" alt="API Giphy logo"/>
 </p>
-- 🌱 I’m currently learning **nothing**.
+- 🌱 I’m currently learning **Naik Rank SS Tanpa Char EX**.
 - 👀 I'm currently focusing on **JavaScript**.
 - 🤗 Follow Account Github on [`@UdeanXD`](https://github.com/UdeanXD/) 
 <p align="center">
@@ -44,8 +44,8 @@
   <a name=Udean&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
- #sosial media
-* [`WhatsApp Admin `](https://wa.me/6281223409300)
+ #social media
+* [`WhatsApp Admin`](https://wa.me/6281223409300)
                                                   
 * [`Rest Api`](-)
 
