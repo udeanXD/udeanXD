@@ -45,9 +45,8 @@
 
 </p> 
  #social media
-* [`WhatsApp`](https://wa.me/6281223409300)
                                                   
-* [`Rest Api`](-)
+* [`WhatsApp`](https://wa.me/6281223409300)
 
 <!--
 **hardiantojek93/hardiantojek93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
