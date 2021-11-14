@@ -4,8 +4,11 @@
 <img src="https://i.ibb.co/tbSR6GF/One-Piece-Icons-Perona.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 - 🌱 I’m currently learning **Naik Rank SS Tanpa Char EX**.
+
 - 👀 I'm currently focusing on **JavaScript**.
+
 - 🤗 Follow Account Github on [`@UdeanXD`](https://github.com/UdeanXD/) 
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
