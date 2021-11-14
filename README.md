@@ -26,12 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/UdeanXD"><img src="https://github-readme-stats.vercel.app/api?username=hardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
   <a href="https://github.com/UdeanXD"><img src="https://github-readme-stats.vercel.app/api?username=UdeanXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/UdeanXD"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernamehardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
   <a href="https://github.com/UdeanXD"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernameUdeanXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
@@ -51,6 +49,7 @@
  #social media
                                                   
 * [`WhatsApp`](https://wa.me/6281223409300)
+* [`Instagram`](https://instagram.com/udeannnnnnn)
 
 <!--
 **hardiantojek93/hardiantojek93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
