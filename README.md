@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://i.ibb.co/tbSR6GF/One-Piece-Icons-Perona.jpg" width="100%" alt="API Giphy logo"/>
 </p>
+
 - 🌱 I’m currently learning **Naik Rank SS Tanpa Char EX**.
 
 - 👀 I'm currently focusing on **JavaScript**.
