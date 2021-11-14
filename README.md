@@ -45,7 +45,7 @@
 
 </p> 
  #social media
-* [`WhatsApp Admin`](https://wa.me/6281223409300)
+* [`WhatsApp`](https://wa.me/6281223409300)
                                                   
 * [`Rest Api`](-)
 
